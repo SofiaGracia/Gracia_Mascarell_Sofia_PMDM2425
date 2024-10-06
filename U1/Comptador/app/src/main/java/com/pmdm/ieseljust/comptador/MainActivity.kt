@@ -38,6 +38,8 @@ class MainActivity : AppCompatActivity() {
 
         // Referencia al botón
         val btAdd=findViewById<Button>(R.id.btAdd)
+        //també es podria fer:
+        //val btAdd : Button =findViewById(R.id.btAdd)
 
         // Asociaciamos una expresióin lambda como
         // respuesta (callback) al evento Clic sobre
