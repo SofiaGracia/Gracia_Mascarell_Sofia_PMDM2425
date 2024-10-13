@@ -1,0 +1,2 @@
+# Programació multimèdia i dispositius mòbils 2024-2025: Sofía Gracia Mascarell
+Repositori que contindrà les activitats del curs de Programació multimèdia i dispositius mòbils 2024-2025. El repositori estarà organitzat per unitats.
